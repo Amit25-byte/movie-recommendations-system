@@ -1,4 +1,6 @@
-streamlit
+streamlit==1.22.0
 requests
-
+pandas==2.0.2
+numpy==1.24.3
+nltk==3.8.1
 
