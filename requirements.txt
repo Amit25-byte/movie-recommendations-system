@@ -2,4 +2,4 @@ streamlit
 requests
 
 
---extra-index-url=https://packagecloud.io/github/git-lfs/pypi/simple
+index-url=https://packagecloud.io/github/git-lfs/pypi/simple
