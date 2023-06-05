@@ -2,4 +2,3 @@ streamlit
 requests
 
 
-index-url=https://packagecloud.io/github/git-lfs/pypi/simple
